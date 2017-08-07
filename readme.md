@@ -35,7 +35,8 @@ A more detailed article can be found on <a href="https://scotch.io/bar-talk/s-o-
 or in the original book called <a href="https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445/ref=sr_1_2?ie=UTF8&qid=1502116411&sr=8-2&keywords=agile+software+development">
 Agile Software Development, Principles, Patterns, and Practices</a> by Robert C. Martin.
 
-TODO:
+The following definitions are taken from the book <a href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1502116580&sr=8-1&keywords=design+patterns">
+Design Patterns: Elements of Reusable Object-Oriented Software</a>.
 
 ### Creational
 
