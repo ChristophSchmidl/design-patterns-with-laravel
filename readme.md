@@ -19,7 +19,7 @@ S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principle
 * **I**nterface Segregation Principle
 * **D**ependency Inversion Principle
 
-Another rule states **Encapsulate What Varies** and only abstract away things that vary in your application.
+Another rule states **Encapsulate What Varies**, so only abstract away things that vary in your application.
 
 A more detailed article can be found on <a href="https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">Scotch.io</a>
 
