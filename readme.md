@@ -35,14 +35,22 @@ A more detailed article can be found on <a href="https://scotch.io/bar-talk/s-o-
 or in the original book called <a href="https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445/ref=sr_1_2?ie=UTF8&qid=1502116411&sr=8-2&keywords=agile+software+development">
 Agile Software Development, Principles, Patterns, and Practices</a> by Robert C. Martin.
 
-The following definitions are taken from the book <a href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1502116580&sr=8-1&keywords=design+patterns">
+The following definitions were taken from the book <a href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?ie=UTF8&qid=1502116580&sr=8-1&keywords=design+patterns">
 Design Patterns: Elements of Reusable Object-Oriented Software</a>.
 
 ### Creational
 
 - [ ] Abstract Factory
+	* Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+
 - [ ] Builder
+	* Separate the construction of a complex object from its representation so that the same
+	construction process can create different representations.
+
 - [ ] Factory Method
+	* Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory Method lets
+	a class defer instantiation to subclasses.
+
 - [ ] Prototype
 - [ ] Singleton
 - [ ] Simple Factory Method
