@@ -32,6 +32,8 @@ S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principle
 Another rule states **Encapsulate What Varies**, so only abstract away things that vary in your application.
 
 A more detailed article can be found on <a href="https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">Scotch.io</a>
+or in the original book called <a href="https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445/ref=sr_1_2?ie=UTF8&qid=1502116411&sr=8-2&keywords=agile+software+development">
+Agile Software Development, Principles, Patterns, and Practices</a> by Robert C. Martin.
 
 TODO:
 
