@@ -11,12 +11,18 @@
 
 TODO:
 
+### Creational
+
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Factory Method
 - [ ] Prototype
 - [ ] Singleton
 - [ ] Simple Factory Method
+
+
+### Structural
+
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
@@ -24,6 +30,10 @@ TODO:
 - [ ] Facade
 - [ ] Flyweight
 - [ ] Proxy
+
+
+### Behavioral
+
 - [ ] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
