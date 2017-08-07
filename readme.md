@@ -9,5 +9,30 @@
 
 ## Design Patterns with Laravel
 
+TODO:
+
 - [ ] Abstract Factory
+- [ ] Builder
+- [ ] Factory Method
+- [ ] Prototype
+- [ ] Singleton
+- [ ] Simple Factory Method
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
 
