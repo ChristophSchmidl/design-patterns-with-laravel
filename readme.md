@@ -9,6 +9,20 @@
 
 ## Design Patterns with Laravel
 
+**S.O.L.I.D - Principle**
+
+S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, namely:
+
+	* **S**ingle Responsibility Principle
+	* **O**pen/Closed Principle
+	* **L**iskov Substitution Principle
+	* **I**nterface Segregation Principle
+	* **D**ependency Inversion Principle
+
+Another rule states **Encapsulate What Varies** and only abstract away things that vary in your application.
+
+A more detailed article can be found on <a href="https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">Scotch.io</a>
+
 TODO:
 
 ### Creational
