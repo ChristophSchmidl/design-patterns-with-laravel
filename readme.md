@@ -13,11 +13,11 @@
 
 S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, namely:
 
-	* **S**ingle Responsibility Principle
-	* **O**pen/Closed Principle
-	* **L**iskov Substitution Principle
-	* **I**nterface Segregation Principle
-	* **D**ependency Inversion Principle
+* **S**ingle Responsibility Principle
+* **O**pen/Closed Principle
+* **L**iskov Substitution Principle
+* **I**nterface Segregation Principle
+* **D**ependency Inversion Principle
 
 Another rule states **Encapsulate What Varies** and only abstract away things that vary in your application.
 
