@@ -1,5 +1,7 @@
 # Abstract Factory
 
+![Abstract Factoriy](docs/images/abstract_factory.png)
+
 ## Intent
 
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
