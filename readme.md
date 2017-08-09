@@ -42,6 +42,7 @@ Design Patterns: Elements of Reusable Object-Oriented Software</a>.
 
 - [ ] **Abstract Factory**
 	* Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+	* See: [Abstract Factory](abstract_factory.md)
 
 - [ ] **Builder**
 	* Separate the construction of a complex object from its representation so that the same
