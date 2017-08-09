@@ -1,6 +1,6 @@
 # Abstract Factory
 
-![Abstract Factoriy](docs/images/abstract_factory.png)
+![Abstract Factory](images/abstract_factory.png)
 
 ## Intent
 
